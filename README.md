@@ -1,12 +1,9 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HyungUn`s%20GitHub%20&height=150&fontSize=55&desc=Welcome!&descAlignY=75&descAlign=60)
-
-<br>
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HyungUn`s%20GitHub%20&height=150&fontSize=55&desc=Welcome!&descAlignY=75&descAlign=50)
 
 <p align="center">
 <Strong>📧Email📧</Strong><br>khw3754@gmail.com<br>
 
 </p>
-
 <br>
 
 <p align="center">
