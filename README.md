@@ -1,8 +1,9 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=HyungUn`s%20GitHub%20&height=150&fontSize=55&desc=Welcome!&descAlignY=75&descAlign=50)
 
 <p align="center">
-<Strong>📧Email📧</Strong><br>khw3754@gmail.com<br>
-
+<Strong>📧Email📧</Strong><br>khw3754@gmail.com<br><br>
+<Strong>🔗Blog🔗</Strong><br>
+<a href="https://hhyung.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
 <br>
 
