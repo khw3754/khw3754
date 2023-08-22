@@ -17,44 +17,11 @@
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong>📚Education📚</Strong><br>
 </p>
 
 <p align="center" display="inline-block">
-    💡Language <br>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <Strong>광운대학교</Strong> (2018 ~)<br>
+    <Strong>오픈소스 컨트리뷰션 아카데미</Strong> (2021.08 ~ 2021.11)<br>
+    <Strong>네이버 부스트캠프 웹・모바일</Strong> (2023.07 ~)
 </p>
-<p align="center" display="inline-block">
-    💡Backend <br>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-</p>
-<p align="center" display="inline-block">
-    💡Tools <br>
-    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
-</p>
-<p align="center" display="inline-block">
-    💡DB <br>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-<p align="center" display="inline-block">
-    💡DevOps / Infra <br>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-</p>
-<p align="center" display="inline-block">
-    💡Cowork Tools <br>
-    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-</p>
-<p align="center" display="inline-block">
-
-<p align="center">
-
-<div align="center">
-    
-<!--![HyungUn's github stats](https://github-readme-stats.vercel.app/api?username=khw3754&show_icons=true)-->
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khw3754)](https://solved.ac/khw3754/)-->
-    
-</div>
