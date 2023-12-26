@@ -21,7 +21,7 @@
 </p>
 
 <p align="center" display="inline-block">
-    <Strong>광운대학교</Strong> (2018 ~)<br>
+    <Strong>광운대학교</Strong> (2018.03 ~ 2024.02)<br>
     <Strong>오픈소스 컨트리뷰션 아카데미</Strong> (2021.08 ~ 2021.11)<br>
-    <Strong>네이버 부스트캠프 웹・모바일</Strong> (2023.07 ~)
+    <Strong>네이버 부스트캠프 웹・모바일</Strong> (2023.07 ~ 2023.12)
 </p>
